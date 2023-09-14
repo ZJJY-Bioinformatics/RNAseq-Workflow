@@ -57,7 +57,7 @@
 
 ## 安装
 
-您可以通过以下命令从 GitLab 直接克隆该仓库到您的本地目录。如果您使用的是华大计算机集群，您可以直接使用我已经配置好的路径。如果您需要自己进行安装，请修改 `input.json` 文件中的路径。
+您可以通过以下命令从 GitLab 直接克隆该仓库到您的本地目录，请修改 `input.json` 文件中的路径。
 
 ```bash
 git clone https://gitlab.genomics.cn/iori/phi/bulk-rna-seq.git
